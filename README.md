@@ -1,4 +1,3 @@
-# FTPI
 # Full-Stack Finance Dashboard
 
 ## Setup
